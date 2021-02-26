@@ -1,6 +1,6 @@
 {
     "base_font": "system-sans",
-    "palette": "orange",
+    "palette": "red",
     "header": {
         "logo_img": "images/emb_logo.png",
         "logo_img_alt": "Logo",

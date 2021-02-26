@@ -49,7 +49,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: Cool Feature of Your Services
+      - title: Projektová dokumentácia
         image: images/Ikona-03.svg
         image_alt: App user profile preview
         content: >-

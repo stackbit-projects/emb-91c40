@@ -1,5 +1,5 @@
 {
-    "base_font": "nunito-sans",
+    "base_font": "fira-sans",
     "palette": "orange",
     "header": {
         "logo_img": "images/emb_logo.png",

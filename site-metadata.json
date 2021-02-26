@@ -37,7 +37,7 @@
         "sections": [
             {
                 "type": "footer_text",
-                "image": "images/emb_logo.png",
+                "image": "images/emb_logo_transparent_w.png",
                 "image_url": "/",
                 "image_alt": "Footer logo",
                 "content": "Stackbit theme demo"

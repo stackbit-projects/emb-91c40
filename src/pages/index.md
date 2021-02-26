@@ -35,7 +35,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: Awesome Feature of Your Services
+      - title: Výroba NN rozvádzačov
         image: images/Ikona-02.svg
         image_alt: App users welcoming a new member
         content: >-

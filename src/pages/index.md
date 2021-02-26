@@ -5,9 +5,6 @@ sections:
     type: section_hero
     image_alt: App preview
     title: '30 rokov zdokoľovania, tisíce zrealizovaných zákaziek'
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
     actions:
       - label: Learn More
         url: /features

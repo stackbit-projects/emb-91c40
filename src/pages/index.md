@@ -4,7 +4,7 @@ sections:
   - section_id: hero
     type: section_hero
     image_alt: App preview
-    title: '30 rokov zdokoľovania, tisíce zrealizovaných zákaziek'
+    title: '30 rokov zdokonaľovania, tisíce zrealizovaných zákaziek'
     actions:
       - label: Náš príbeh
         url: /features

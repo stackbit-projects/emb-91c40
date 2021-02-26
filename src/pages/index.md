@@ -6,7 +6,7 @@ sections:
     image_alt: App preview
     title: '30 rokov zdokoľovania, tisíce zrealizovaných zákaziek'
     actions:
-      - label: Learn More
+      - label: Náš príbeh
         url: /features
         style: primary
   - section_id: features

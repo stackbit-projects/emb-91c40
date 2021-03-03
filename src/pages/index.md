@@ -8,7 +8,7 @@ sections:
     actions:
       - label: Náš príbeh
         url: /features
-        style: primary
+        style: secondary
   - section_id: features
     type: section_features
     background: gray
